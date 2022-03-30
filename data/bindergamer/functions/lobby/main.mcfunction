@@ -13,4 +13,4 @@ execute as @a[team=lobby,tag=!op] at @s run gamemode adventure @s
 execute as @a[team=public,tag=!op] at @s run gamemode survival @s
 
 execute as @a[team=lobby] at @s run kill @e[distance=..5,type=arrow]
-execute as @a[team=lobby] at @s run effect give @s resistance 10 10 true
+execute as @a[team=lobby] at @s run effect give @s resistance 2 10 true
