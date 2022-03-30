@@ -4,7 +4,7 @@
         "description": "This is a Datapack for Minecraft. To use the Datapack you must have op.",
         "icon": {
             "item": "minecraft:player_head",
-            "nbt": "{SkullOwner: 'BinDerGamer'}"
+            "nbt": "{SkullOwner: BinDerGamer}"
         },
         "show_toast": false,
         "announce_to_chat": false
