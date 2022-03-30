@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Lobby system",
+        "description": "This is a Datapack for Minecraft. To use the Datapack you must have op.",
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner: 'BinDerGamer'}"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:root",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
